@@ -3,9 +3,9 @@ Este layout foi desenvolvido com o objetivo de mostrar os trabalhos de fotografi
 
 
 ## Tecnológias
-  1.Html
-  2.Css
-  3.JavaScript
+  - Html
+  - Css
+  - JavaScript
 
 ## Desenvolvido por:
 [Danúsio Júnior](https://github.com/danusiojunior) em parceria com [Henrique Assunção](https://github.com/hnrqsss)
